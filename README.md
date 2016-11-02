@@ -1,2 +1,2 @@
 # hola-mundo
-solo un nuevo repositorio
+Hi!! I new in gitHub.I am from Cuba.I hope learn abaut everything.
